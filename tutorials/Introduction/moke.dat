@@ -1,0 +1,52 @@
+# == pyFAI calibration ==
+# Distance Sample to Detector: 0.1 m
+# PONI: 3.000e-02, 3.000e-02 m
+# Rotations: 0.000000 0.000000 0.000000 rad
+# 
+# == Fit2d calibration ==
+# Distance Sample-beamCenter: 100.000 mm
+# Center: x=300.000, y=300.000 pix
+# Tilt: 0.000 deg  TiltPlanRot: 0.000 deg
+# 
+# Detector Detector	 Spline= None	 PixelSize= 1.000e-04, 1.000e-04 m
+#    Detector has a mask: False 
+#    Detector has a dark current: False 
+#    detector has a flat field: False 
+# 
+# Mask applied: False
+# Dark current applied: False
+# Flat field applied: False
+# Polarization factor: None
+# Normalization factor: 1.0
+# --> moke.dat
+#       2th_deg             I 
+  3.831631e-01    6.384597e+00
+  1.149489e+00    1.240657e+01
+  1.915815e+00    1.222277e+01
+  2.682142e+00    1.170348e+01
+  3.448468e+00    9.964797e+00
+  4.214794e+00    8.913503e+00
+  4.981120e+00    9.104074e+00
+  5.747446e+00    9.242975e+00
+  6.513773e+00    6.136262e+00
+  7.280099e+00    9.039030e+00
+  8.046425e+00    9.203415e+00
+  8.812751e+00    9.324570e+00
+  9.579077e+00    6.470129e+00
+  1.034540e+01    7.790758e+00
+  1.111173e+01    9.410036e+00
+  1.187806e+01    9.464832e+00
+  1.264438e+01    7.749059e+00
+  1.341071e+01    1.151200e+01
+  1.417703e+01    1.324891e+01
+  1.494336e+01    1.038730e+01
+  1.570969e+01    1.069764e+01
+  1.647601e+01    1.056094e+01
+  1.724234e+01    1.286720e+01
+  1.800867e+01    1.323240e+01
+  1.877499e+01    1.548398e+01
+  1.954132e+01    2.364553e+01
+  2.030764e+01    2.537155e+01
+  2.107397e+01    2.512984e+01
+  2.184030e+01    2.191267e+01
+  2.260662e+01    7.605135e+00
